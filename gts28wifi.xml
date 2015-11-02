@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<project name="Galaxy-Tab-S2/android_device_samsung_gts28wifi" 		path="device/samsung/gts28wifi" 		remote="github" revision="cm-12.1" />
+	<project name="Galaxy-Tab-S2/android_kernel_samsung_gts28wifi" 		path="kernel/samsung/gts28wifi" 		remote="github" revision="cm-12.1" />
+	<project name="Galaxy-Tab-S2/android_vendor_samsung_gts28wifi" 		path="vendor/samsung/gts28wifi" 		remote="github" revision="cm-12.1" />
+	<project name="Galaxy-Tab-S2/hardware_samsung_slsi_exynos5433" 		path="hardware/samsung_slsi/exynos5433" 	remote="github" revision="lp5.1" />
+	<project name="Galaxy-Tab-S2/hardware_samsung_slsi_exynos5-insignal" 	path="hardware/samsung_slsi/exynos5-insignal" 	remote="github" revision="cm-12.1" />
+
+</manifest>
