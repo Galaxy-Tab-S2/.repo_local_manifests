@@ -2,7 +2,6 @@
 <manifest>
 
  <project name="Galaxy-Tab-S2/android_device_samsung_gts28wifi" path="device/samsung/gts28wifi" remote="github" revision="cm-12.1" />
- <project name="Galaxy-Tab-S2/android_kernel_samsung_gts28wifi" path="kernel/samsung/gts28wifi" remote="github" revision="cm-12.1" />
  <project name="Galaxy-Tab-S2/android_vendor_samsung_gts28wifi" path="vendor/samsung/gts28wifi" remote="github" revision="cm-12.1" />
 
 </manifest>
