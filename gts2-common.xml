@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<project name="Galaxy-Tab-S2/android_device_samsung_gts2-common" path="device/samsung/gts2-common" remote="github" revision="cm-12.1" />
-<project name="Galaxy-Tab-S2/android_kernel_samsung_exynos5433"  path="kernel/samsung/exynos5433"  remote="github" revision="cm-12.1" />
+<project name="Galaxy-Tab-S2/android_device_samsung_gts2-common"          path="device/samsung/gts2-common"          remote="github" revision="cm-12.1" />
+<project name="Galaxy-Tab-S2/android_kernel_samsung_exynos5433"           path="kernel/samsung/exynos5433"           remote="github" revision="cm-12.1" />
+<project name="Galaxy-Tab-S2/android_device_patches_samsung_gts2-common"  path="device/patches/samsung/gts2-common"  remote="github" revision="cm-12.1" />
+
 
 <project name="CyanogenMod/android_packages_apps_SamsungServiceMode"    path="packages/apps/SamsungServiceMode"    remote="github" revision="cm-12.1" />
 <project name="CyanogenMod/android_hardware_samsung"                    path="hardware/samsung"                    remote="github" revision="cm-12.1" />
