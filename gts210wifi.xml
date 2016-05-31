@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-
- <project name="Galaxy-Tab-S2/android_device_samsung_gts210wifi" path="device/samsung/gts210wifi" remote="github" revision="cm-12.1" />
- <project name="Galaxy-Tab-S2/android_vendor_samsung_gts210wifi" path="vendor/samsung/gts210wifi" remote="github" revision="cm-12.1" />
-
-</manifest>
